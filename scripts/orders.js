@@ -203,7 +203,7 @@ export function searchProducts() {
 
     let yourSearch = document.querySelector('.js-search-bar').value
 
-    window.location.href = `amazon.html?search=${yourSearch}`;
+    window.location.href = `index.html?search=${yourSearch}`;
 
   }); 
 
@@ -213,7 +213,7 @@ export function searchProducts() {
       let yourSearch = document.querySelector('.js-search-bar').value
 
       
-      window.location.href = `amazon.html?search=${yourSearch}`;
+      window.location.href = `index.html?search=${yourSearch}`;
     }
   })
 
