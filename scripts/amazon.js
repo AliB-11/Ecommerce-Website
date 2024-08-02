@@ -215,7 +215,7 @@ export function generateURL() {
 
      `<input class="search-bar" type="text" placeholder="Search">
       
-     <a class="js-search" href="amazon.html?search=${yourSearch}">
+     <a class="js-search" href="index.html?search=${yourSearch}">
       <button class="search-button">
         <img class="search-icon" src="images/icons/search-icon.png">
       </button>
